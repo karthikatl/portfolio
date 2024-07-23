@@ -6,7 +6,6 @@ const isProd = process.env.NODE_ENV === 'production';
 const nextConfig = {
   basename: isProd ?  '/portfolio' : '',
   output: 'export',
-  distDir: 'dist',
   typescript: {
     ignoreBuildErrors: true,
   },
