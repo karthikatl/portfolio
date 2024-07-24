@@ -96,11 +96,11 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Animated Apple Iphone 3D Website",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "./p4.svg",
+      title: "Real estate Project",
+      des: "Re-wamped the real estate project",
+      img: "./rl.svg",
       iconLists: ["./jsp1.png", "./html.svg", "./ps.svg"],
-      link: "./ui.apple.com",
+      link: "https://realtybargain.com/",
     },
   ];
   
