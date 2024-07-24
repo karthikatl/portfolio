@@ -28,8 +28,8 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "Currently building a JS Animation library",
-      description: "The Inside Scoop",
+      title: "Currently exploring new languages",
+      description: "Trying to build something interesting",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
       titleClassName: "justify-center",
@@ -38,7 +38,7 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Tech enthusiast with a passion for development.",
+      title: "Tech enthusiast with a passion for design and development.",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
@@ -190,10 +190,12 @@ export const navItems = [
     {
       id: 1,
       img: "./git.svg",
+      link: "https://github.com/karthikatl/"
     },
 
     {
       id: 3,
       img: "./link.svg",
+      link: "https://www.linkedin.com/in/karthika-s-surendran/"
     },
   ];
