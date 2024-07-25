@@ -98,7 +98,7 @@ export const navItems = [
       id: 4,
       title: "Real estate Project",
       des: "Re-wamped the real estate project",
-      img: "./rl.svg",
+      img: "./rl.png",
       iconLists: ["./jsp1.png", "./html.svg", "./ps.svg"],
       link: "https://realtybargain.com/",
     },
