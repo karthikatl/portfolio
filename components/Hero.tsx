@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Karthika, a Next.js Developer based in Leicester.
+            Hi! I&apos;m Karthika, a UI/UX/Frontend Developer based in United Kingdom.
           </p>
 
           <a href="#about">
